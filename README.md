@@ -7,19 +7,19 @@
 
 
 ### A Little Profile About Me.  
-### *<div align="center">I'm a passionate software engineering student from Rustenburg, dedicated to honing my skills and knowledge in the field. With an unwavering commitment to excellence, my goal is to become one of the foremost software developers in Africa. Through continuous learning and hands-on experience, I strive to contribute innovative solutions and make a significant impact in the world of technology. Join me on this exciting journey as we shape the future through code! 🚀🌍</div>*  
+### *<div align="center"> I'm a Software Engineer with a year of intensive training from Codespace Academy, where I've honed my skills in frontend development. I'm passionate about crafting seamless user experiences and bringing innovative ideas to life through code. Dive into my projects to see what I've been up to! 🚀🌍</div>*  
   
 
 
 
 ### More About What I Wish to Archive.  
-- 🔭 Currently, I'm immersing myself in various GitHub projects, tackling diverse challenges and sharpening my skills. My relentless pursuit of knowledge in software engineering fuels my desire to contribute to the African community, striving to enhance lives through the power of AI. Join me as I embrace continuous learning, collaborate with fellow developers, and make a positive impact on society. Together, let's shape a brighter future through technology and create meaningful change. ✨🌍  
+- 🔭 Currently, I'm immersing myself in various GitHub projects, tackling diverse challenges and sharpening my skills. My relentless pursuit of knowledge in software engineering fuels my desire to contribute to the tech community, striving to enhance lives through the power of AI. Join me as I embrace continuous learning, collaborate with fellow developers, and make a positive impact on society. Together, let's shape a brighter future through technology and create meaningful change. ✨🌍  
   
 
 
 
 ### What I Have Learned So Far.  
-- 🌱 I’m currently learning SCRACTH, HTML, CSS AND JavaScript  
+- 🌱SCRACTH, HTML, CSS, JavaScript, React.jsx, SQL, AND NEXT.jsx  
   
 
 
