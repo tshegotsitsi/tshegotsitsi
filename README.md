@@ -13,7 +13,7 @@
 
 
 ### More About What I Wish to Archive.  
-- 🔭 Currently, I'm immersing myself in various GitHub projects, tackling diverse challenges and sharpening my skills. My relentless pursuit of knowledge in software engineering fuels my desire to contribute to the tech community, striving to enhance lives through the power of AI. Join me as I embrace continuous learning, collaborate with fellow developers, and make a positive impact on society. Together, let's shape a brighter future through technology and create meaningful change. ✨🌍  
+<div align="center">- 🔭 Currently, I'm immersing myself in various GitHub projects, tackling diverse challenges and sharpening my skills. My relentless pursuit of knowledge in software engineering fuels my desire to contribute to the tech community, striving to enhance lives through the power of AI. Join me as I embrace continuous learning, collaborate with fellow developers, and make a positive impact on society. Together, let's shape a brighter future through technology and create meaningful change. ✨🌍  </div>
   
 
 
